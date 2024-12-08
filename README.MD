@@ -5,6 +5,7 @@
 Este projeto foi desenvolvido no contexto da disciplina do ciclo 3, cujo objetivo foi analisar dados de uso e cobertura do solo no território brasileiro a partir de uma imagem de satélite. Por meio de um código em Python, é possível extrair a quantidade total de pixels da imagem, bem como pixels relacionados a categorias específicas de uso da terra, e a partir desses resultados, estimar a área ocupada por determinados usos do solo em hectares.
 
 Link do Google Colab: https://colab.research.google.com/drive/1HcsR8U-CxXFETxMIC-WjQeCjbGf2Hhlv?usp=sharing
+
 Projeto do Github: https://github.com/joaosantosg/Processamento_s19
 ### Objetivos
 
